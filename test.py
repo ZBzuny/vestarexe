@@ -6,14 +6,10 @@ import time
 import re
 from pathlib import Path
 from PIL import Image, ImageTk
-import os
+
 import sys
-import zipfile
-import io
 
 from pathlib import Path
-
-
 
 if getattr(sys, "frozen", False):
 
@@ -23,24 +19,9 @@ else:
 
     BASE_DIR = Path(__file__).resolve().parent
 
-EMJL = f'{BASE_DIR}/emojilist'
-
 url = "https://pillowmeow.tail6d1b7e.ts.net/pub/"
 
-
-
-
-if not os.path.exists(f'{BASE_DIR}/emojilist'):
-    os.makedirs(EMJL)
-    with open(f'{EMJL}/data.json', 'w') as f:
-        json.dump({"name":""},f)
-    r = requests.get(f'{url}emoji.zip')
-    r.raise_for_status()
-    with zipfile.ZipFile(io.BytesIO(r.content)) as z:
-        z.extractall(f'{EMJL}')
-
-
-with open(f'{EMJL}/data.json', "r") as f:
+with open(BASE_DIR / "emojilist" / "data.json", "r", encoding="utf-8") as f:
     data = json.load(f)
     name = data.get("name", "")
 gameurl = ""
@@ -254,7 +235,7 @@ def printgame():
 
         if isinstance(gamejs, dict):
             gametitle = gamejs["stage"]["name"]
-            label_title.config(text=gametitle, fg="systemTextColor")
+            label_title.config(text=gametitle, fg="black")
             
             # 플레이어 카드
             mypf = gamejs.get("players", [])
@@ -283,7 +264,7 @@ def printgame():
     
     waiting = 3000
         
-    root = tk.Tk(className="지비의 게임 보조기")
+    root = tk.Tk(className="지비의게임보조기")
     root.attributes("-topmost", True)
     root.geometry("400x200")
 
@@ -296,7 +277,7 @@ def printgame():
 
     label_name.pack()
     label_title.pack()
-
+    
     name_enter.pack(side=tk.LEFT)
     name_submit.pack(side=tk.LEFT)
     namegroup.pack()
