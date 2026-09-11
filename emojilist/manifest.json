@@ -1,0 +1,889 @@
+{
+  "version": "0decb26f17f1",
+  "emoji": {
+    "000_left": {
+      "type": "image",
+      "file": "000_left.png"
+    },
+    "000_right": {
+      "type": "image",
+      "file": "000_right.png"
+    },
+    "020_left": {
+      "type": "image",
+      "file": "020_left.png"
+    },
+    "020_right": {
+      "type": "image",
+      "file": "020_right.png"
+    },
+    "040_left": {
+      "type": "image",
+      "file": "040_left.png"
+    },
+    "040_right": {
+      "type": "image",
+      "file": "040_right.png"
+    },
+    "060_left": {
+      "type": "image",
+      "file": "060_left.png"
+    },
+    "060_right": {
+      "type": "image",
+      "file": "060_right.png"
+    },
+    "080_left": {
+      "type": "image",
+      "file": "080_left.png"
+    },
+    "080_right": {
+      "type": "image",
+      "file": "080_right.png"
+    },
+    "100_left": {
+      "type": "image",
+      "file": "100_left.png"
+    },
+    "100_right": {
+      "type": "image",
+      "file": "100_right.png"
+    },
+    "130_left": {
+      "type": "image",
+      "file": "130_left.png"
+    },
+    "130_right": {
+      "type": "image",
+      "file": "130_right.png"
+    },
+    "160_left": {
+      "type": "image",
+      "file": "160_left.png"
+    },
+    "160_right": {
+      "type": "image",
+      "file": "160_right.png"
+    },
+    "190_left": {
+      "type": "image",
+      "file": "190_left.png"
+    },
+    "190_right": {
+      "type": "image",
+      "file": "190_right.png"
+    },
+    "220_left": {
+      "type": "image",
+      "file": "220_left.png"
+    },
+    "220_right": {
+      "type": "image",
+      "file": "220_right.png"
+    },
+    "260_left": {
+      "type": "image",
+      "file": "260_left.png"
+    },
+    "260_right": {
+      "type": "image",
+      "file": "260_right.png"
+    },
+    "300_left": {
+      "type": "image",
+      "file": "300_left.png"
+    },
+    "300_right": {
+      "type": "image",
+      "file": "300_right.png"
+    },
+    "350_left": {
+      "type": "image",
+      "file": "350_left.png"
+    },
+    "350_right": {
+      "type": "image",
+      "file": "350_right.png"
+    },
+    "400_left": {
+      "type": "image",
+      "file": "400_left.png"
+    },
+    "400_right": {
+      "type": "image",
+      "file": "400_right.png"
+    },
+    "450_left": {
+      "type": "image",
+      "file": "450_left.png"
+    },
+    "450_right": {
+      "type": "image",
+      "file": "450_right.png"
+    },
+    "500_left": {
+      "type": "image",
+      "file": "500_left.png"
+    },
+    "500_right": {
+      "type": "image",
+      "file": "500_right.png"
+    },
+    "600_left": {
+      "type": "image",
+      "file": "600_left.png"
+    },
+    "600_right": {
+      "type": "image",
+      "file": "600_right.png"
+    },
+    "800_left": {
+      "type": "image",
+      "file": "800_left.png"
+    },
+    "800_right": {
+      "type": "image",
+      "file": "800_right.png"
+    },
+    "a1": {
+      "type": "image",
+      "file": "a1.png"
+    },
+    "a1b": {
+      "type": "image",
+      "file": "a1b.png"
+    },
+    "a1g": {
+      "type": "image",
+      "file": "a1g.png"
+    },
+    "a1r": {
+      "type": "image",
+      "file": "a1r.png"
+    },
+    "a1x": {
+      "type": "image",
+      "file": "a1x.png"
+    },
+    "a2": {
+      "type": "image",
+      "file": "a2.png"
+    },
+    "a2b": {
+      "type": "image",
+      "file": "a2b.png"
+    },
+    "a2g": {
+      "type": "image",
+      "file": "a2g.png"
+    },
+    "a2r": {
+      "type": "image",
+      "file": "a2r.png"
+    },
+    "a2x": {
+      "type": "image",
+      "file": "a2x.png"
+    },
+    "a3": {
+      "type": "image",
+      "file": "a3.png"
+    },
+    "a3b": {
+      "type": "image",
+      "file": "a3b.png"
+    },
+    "a3g": {
+      "type": "image",
+      "file": "a3g.png"
+    },
+    "a3r": {
+      "type": "image",
+      "file": "a3r.png"
+    },
+    "a3x": {
+      "type": "image",
+      "file": "a3x.png"
+    },
+    "a4": {
+      "type": "image",
+      "file": "a4.png"
+    },
+    "a5": {
+      "type": "image",
+      "file": "a5.png"
+    },
+    "aleph": {
+      "type": "image",
+      "file": "aleph.png"
+    },
+    "atk": {
+      "type": "image",
+      "file": "atk.png"
+    },
+    "attack_true": {
+      "type": "image",
+      "file": "attack_true.png"
+    },
+    "b1": {
+      "type": "image",
+      "file": "b1.png"
+    },
+    "b2": {
+      "type": "image",
+      "file": "b2.png"
+    },
+    "b3": {
+      "type": "image",
+      "file": "b3.png"
+    },
+    "b4": {
+      "type": "image",
+      "file": "b4.png"
+    },
+    "b5": {
+      "type": "image",
+      "file": "b5.png"
+    },
+    "banc": {
+      "type": "image",
+      "file": "banc.png"
+    },
+    "bat1": {
+      "type": "image",
+      "file": "bat1.png"
+    },
+    "bat2": {
+      "type": "image",
+      "file": "bat2.png"
+    },
+    "black_medium_small_square": {
+      "type": "text",
+      "text": "◾"
+    },
+    "blue_circle": {
+      "type": "text",
+      "text": "🔵"
+    },
+    "blue_powder": {
+      "type": "text",
+      "text": "💠"
+    },
+    "book": {
+      "type": "image",
+      "file": "book.png"
+    },
+    "boss": {
+      "type": "text",
+      "text": "💀"
+    },
+    "bricks": {
+      "type": "text",
+      "text": "🧱"
+    },
+    "broken": {
+      "type": "image",
+      "file": "broken.png"
+    },
+    "brown_square": {
+      "type": "text",
+      "text": "🟫"
+    },
+    "bubbles": {
+      "type": "text",
+      "text": "🫧"
+    },
+    "card": {
+      "type": "image",
+      "file": "card.png"
+    },
+    "card_yellow": {
+      "type": "image",
+      "file": "card_yellow.png"
+    },
+    "chui": {
+      "type": "image",
+      "file": "chui.png"
+    },
+    "comp": {
+      "type": "image",
+      "file": "comp.png"
+    },
+    "cookie": {
+      "type": "text",
+      "text": "🍪"
+    },
+    "cos": {
+      "type": "image",
+      "file": "cos.png"
+    },
+    "crack_crystal": {
+      "type": "image",
+      "file": "crack_crystal.png"
+    },
+    "crack_eternity": {
+      "type": "image",
+      "file": "crack_eternity.png"
+    },
+    "crack_flame": {
+      "type": "image",
+      "file": "crack_flame.png"
+    },
+    "crack_overcharge": {
+      "type": "image",
+      "file": "crack_overcharge.png"
+    },
+    "cry1": {
+      "type": "image",
+      "file": "cry1.png"
+    },
+    "cry2": {
+      "type": "image",
+      "file": "cry2.png"
+    },
+    "cry3": {
+      "type": "image",
+      "file": "cry3.png"
+    },
+    "cry4": {
+      "type": "image",
+      "file": "cry4.png"
+    },
+    "db1": {
+      "type": "image",
+      "file": "db1.png"
+    },
+    "db2": {
+      "type": "image",
+      "file": "db2.png"
+    },
+    "db3": {
+      "type": "image",
+      "file": "db3.png"
+    },
+    "db4": {
+      "type": "image",
+      "file": "db4.png"
+    },
+    "db5": {
+      "type": "image",
+      "file": "db5.png"
+    },
+    "def": {
+      "type": "image",
+      "file": "def.png"
+    },
+    "dgd": {
+      "type": "image",
+      "file": "dgd.png"
+    },
+    "diff1": {
+      "type": "image",
+      "file": "diff1.png"
+    },
+    "diff2": {
+      "type": "image",
+      "file": "diff2.png"
+    },
+    "disk": {
+      "type": "image",
+      "file": "disk.png"
+    },
+    "ef": {
+      "type": "image",
+      "file": "ef.png"
+    },
+    "el1": {
+      "type": "image",
+      "file": "el1.png"
+    },
+    "el10": {
+      "type": "image",
+      "file": "el10.png"
+    },
+    "el11": {
+      "type": "image",
+      "file": "el11.png"
+    },
+    "el12": {
+      "type": "image",
+      "file": "el12.png"
+    },
+    "el13": {
+      "type": "image",
+      "file": "el13.png"
+    },
+    "el14": {
+      "type": "image",
+      "file": "el14.png"
+    },
+    "el15": {
+      "type": "image",
+      "file": "el15.png"
+    },
+    "el16": {
+      "type": "image",
+      "file": "el16.png"
+    },
+    "el17": {
+      "type": "image",
+      "file": "el17.png"
+    },
+    "el18": {
+      "type": "image",
+      "file": "el18.png"
+    },
+    "el19": {
+      "type": "image",
+      "file": "el19.png"
+    },
+    "el2": {
+      "type": "image",
+      "file": "el2.png"
+    },
+    "el20": {
+      "type": "image",
+      "file": "el20.png"
+    },
+    "el21": {
+      "type": "image",
+      "file": "el21.png"
+    },
+    "el22": {
+      "type": "image",
+      "file": "el22.png"
+    },
+    "el23": {
+      "type": "image",
+      "file": "el23.png"
+    },
+    "el24": {
+      "type": "image",
+      "file": "el24.png"
+    },
+    "el3": {
+      "type": "image",
+      "file": "el3.png"
+    },
+    "el4": {
+      "type": "image",
+      "file": "el4.png"
+    },
+    "el5": {
+      "type": "image",
+      "file": "el5.png"
+    },
+    "el6": {
+      "type": "image",
+      "file": "el6.png"
+    },
+    "el7": {
+      "type": "image",
+      "file": "el7.png"
+    },
+    "el8": {
+      "type": "image",
+      "file": "el8.png"
+    },
+    "el9": {
+      "type": "image",
+      "file": "el9.png"
+    },
+    "extcold": {
+      "type": "image",
+      "file": "extcold.png"
+    },
+    "fatigue": {
+      "type": "image",
+      "file": "fatigue.png"
+    },
+    "fire_next": {
+      "type": "image",
+      "file": "fire_next.png"
+    },
+    "flashlight": {
+      "type": "text",
+      "text": "🔦"
+    },
+    "flm": {
+      "type": "image",
+      "file": "flm.png"
+    },
+    "flw": {
+      "type": "text",
+      "text": "🔷"
+    },
+    "flx": {
+      "type": "image",
+      "file": "flx.png"
+    },
+    "frz": {
+      "type": "image",
+      "file": "frz.png"
+    },
+    "gear": {
+      "type": "text",
+      "text": "⚙️"
+    },
+    "h0": {
+      "type": "image",
+      "file": "h0.png"
+    },
+    "h1": {
+      "type": "image",
+      "file": "h1.png"
+    },
+    "h2": {
+      "type": "image",
+      "file": "h2.png"
+    },
+    "h3": {
+      "type": "image",
+      "file": "h3.png"
+    },
+    "h4": {
+      "type": "image",
+      "file": "h4.png"
+    },
+    "h5": {
+      "type": "image",
+      "file": "h5.png"
+    },
+    "h6": {
+      "type": "image",
+      "file": "h6.png"
+    },
+    "hole": {
+      "type": "text",
+      "text": "🕳️"
+    },
+    "ice_cube": {
+      "type": "text",
+      "text": "🧊"
+    },
+    "isg": {
+      "type": "image",
+      "file": "isg.png"
+    },
+    "isg_black": {
+      "type": "image",
+      "file": "isg_black.png"
+    },
+    "large_orange_diamond": {
+      "type": "text",
+      "text": "🔶"
+    },
+    "leaves": {
+      "type": "text",
+      "text": "🍃"
+    },
+    "level_slider": {
+      "type": "text",
+      "text": "🎚️"
+    },
+    "m1": {
+      "type": "image",
+      "file": "m1.png"
+    },
+    "m2": {
+      "type": "image",
+      "file": "m2.png"
+    },
+    "m3": {
+      "type": "image",
+      "file": "m3.png"
+    },
+    "m4": {
+      "type": "image",
+      "file": "m4.png"
+    },
+    "mana": {
+      "type": "image",
+      "file": "mana.png"
+    },
+    "me": {
+      "type": "image",
+      "file": "me.png"
+    },
+    "mg": {
+      "type": "image",
+      "file": "mg.png"
+    },
+    "ml_1": {
+      "type": "image",
+      "file": "ml_1.png"
+    },
+    "ml_2": {
+      "type": "image",
+      "file": "ml_2.png"
+    },
+    "ml_3": {
+      "type": "image",
+      "file": "ml_3.png"
+    },
+    "ml_4": {
+      "type": "image",
+      "file": "ml_4.png"
+    },
+    "ml_5": {
+      "type": "image",
+      "file": "ml_5.png"
+    },
+    "nb1": {
+      "type": "image",
+      "file": "nb1.png"
+    },
+    "nb2": {
+      "type": "image",
+      "file": "nb2.png"
+    },
+    "nb3": {
+      "type": "image",
+      "file": "nb3.png"
+    },
+    "nb4": {
+      "type": "image",
+      "file": "nb4.png"
+    },
+    "newspaper2": {
+      "type": "text",
+      "text": "🗞️"
+    },
+    "ng1": {
+      "type": "image",
+      "file": "ng1.png"
+    },
+    "ng2": {
+      "type": "image",
+      "file": "ng2.png"
+    },
+    "ng3": {
+      "type": "image",
+      "file": "ng3.png"
+    },
+    "ng4": {
+      "type": "image",
+      "file": "ng4.png"
+    },
+    "notebook": {
+      "type": "text",
+      "text": "📓"
+    },
+    "nr1": {
+      "type": "image",
+      "file": "nr1.png"
+    },
+    "nr2": {
+      "type": "image",
+      "file": "nr2.png"
+    },
+    "nr3": {
+      "type": "image",
+      "file": "nr3.png"
+    },
+    "nr4": {
+      "type": "image",
+      "file": "nr4.png"
+    },
+    "par_bs": {
+      "type": "image",
+      "file": "par_bs.png"
+    },
+    "par_gs": {
+      "type": "image",
+      "file": "par_gs.png"
+    },
+    "par_rs": {
+      "type": "image",
+      "file": "par_rs.png"
+    },
+    "pb": {
+      "type": "image",
+      "file": "pb.png"
+    },
+    "pcdm": {
+      "type": "image",
+      "file": "pcdm.png"
+    },
+    "pch": {
+      "type": "image",
+      "file": "pch.png"
+    },
+    "pchm": {
+      "type": "image",
+      "file": "pchm.png"
+    },
+    "pg": {
+      "type": "image",
+      "file": "pg.png"
+    },
+    "pie": {
+      "type": "image",
+      "file": "pie.png"
+    },
+    "pr": {
+      "type": "image",
+      "file": "pr.png"
+    },
+    "purple_circle": {
+      "type": "text",
+      "text": "🟣"
+    },
+    "purple_powder": {
+      "type": "image",
+      "file": "purple_powder.png"
+    },
+    "purple_white": {
+      "type": "image",
+      "file": "purple_white.png"
+    },
+    "radio_button": {
+      "type": "text",
+      "text": "🔘"
+    },
+    "rainbow": {
+      "type": "image",
+      "file": "rainbow.png"
+    },
+    "rainbow2": {
+      "type": "image",
+      "file": "rainbow2.png"
+    },
+    "rare": {
+      "type": "text",
+      "text": "✨"
+    },
+    "redarl": {
+      "type": "image",
+      "file": "redarl.png"
+    },
+    "redarr": {
+      "type": "image",
+      "file": "redarr.png"
+    },
+    "regen": {
+      "type": "image",
+      "file": "regen.png"
+    },
+    "rock": {
+      "type": "text",
+      "text": "🪨"
+    },
+    "rup": {
+      "type": "image",
+      "file": "rup.png"
+    },
+    "shd": {
+      "type": "image",
+      "file": "shd.png"
+    },
+    "shield_blue": {
+      "type": "image",
+      "file": "shield_blue.png"
+    },
+    "sin": {
+      "type": "image",
+      "file": "sin.png"
+    },
+    "small_blue_diamond": {
+      "type": "text",
+      "text": "🔹"
+    },
+    "small_orange_diamond": {
+      "type": "text",
+      "text": "🔸"
+    },
+    "spd": {
+      "type": "image",
+      "file": "spd.png"
+    },
+    "star2": {
+      "type": "text",
+      "text": "🌟"
+    },
+    "stick": {
+      "type": "image",
+      "file": "stick.png"
+    },
+    "stopwatch": {
+      "type": "text",
+      "text": "⏱️"
+    },
+    "sun": {
+      "type": "text",
+      "text": "☀️"
+    },
+    "t0": {
+      "type": "image",
+      "file": "t0.png"
+    },
+    "t1": {
+      "type": "image",
+      "file": "t1.png"
+    },
+    "t2": {
+      "type": "image",
+      "file": "t2.png"
+    },
+    "t3": {
+      "type": "image",
+      "file": "t3.png"
+    },
+    "t4": {
+      "type": "image",
+      "file": "t4.png"
+    },
+    "t5": {
+      "type": "image",
+      "file": "t5.png"
+    },
+    "t6": {
+      "type": "image",
+      "file": "t6.png"
+    },
+    "t7": {
+      "type": "image",
+      "file": "t7.png"
+    },
+    "t8": {
+      "type": "image",
+      "file": "t8.png"
+    },
+    "tan": {
+      "type": "image",
+      "file": "tan.png"
+    },
+    "time": {
+      "type": "image",
+      "file": "time.png"
+    },
+    "timed": {
+      "type": "image",
+      "file": "timed.png"
+    },
+    "timeu": {
+      "type": "image",
+      "file": "timeu.png"
+    },
+    "triangular_ruler": {
+      "type": "text",
+      "text": "📐"
+    },
+    "true_left": {
+      "type": "image",
+      "file": "true_left.png"
+    },
+    "true_right": {
+      "type": "image",
+      "file": "true_right.png"
+    },
+    "unlock": {
+      "type": "text",
+      "text": "🔓"
+    },
+    "vari": {
+      "type": "image",
+      "file": "vari.png"
+    }
+  }
+}
