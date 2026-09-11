@@ -1,5 +1,5 @@
 {
-  "version": "0decb26f17f1",
+  "version": "f6590f8db1f9",
   "emoji": {
     "000_left": {
       "type": "image",
@@ -165,6 +165,14 @@
       "type": "image",
       "file": "a1x.png"
     },
+    "a1y": {
+      "type": "image",
+      "file": "a1y.png"
+    },
+    "a1z": {
+      "type": "image",
+      "file": "a1z.png"
+    },
     "a2": {
       "type": "image",
       "file": "a2.png"
@@ -185,6 +193,14 @@
       "type": "image",
       "file": "a2x.png"
     },
+    "a2y": {
+      "type": "image",
+      "file": "a2y.png"
+    },
+    "a2z": {
+      "type": "image",
+      "file": "a2z.png"
+    },
     "a3": {
       "type": "image",
       "file": "a3.png"
@@ -204,6 +220,14 @@
     "a3x": {
       "type": "image",
       "file": "a3x.png"
+    },
+    "a3y": {
+      "type": "image",
+      "file": "a3y.png"
+    },
+    "a3z": {
+      "type": "image",
+      "file": "a3z.png"
     },
     "a4": {
       "type": "image",
@@ -292,6 +316,10 @@
     "bubbles": {
       "type": "text",
       "text": "🫧"
+    },
+    "bulb": {
+      "type": "text",
+      "text": "💡"
     },
     "card": {
       "type": "image",
@@ -392,6 +420,10 @@
     "ef": {
       "type": "image",
       "file": "ef.png"
+    },
+    "eight_pointed_black_star": {
+      "type": "text",
+      "text": "✴️"
     },
     "el1": {
       "type": "image",
@@ -553,6 +585,10 @@
       "type": "image",
       "file": "h6.png"
     },
+    "herb": {
+      "type": "text",
+      "text": "🌿"
+    },
     "hole": {
       "type": "text",
       "text": "🕳️"
@@ -628,6 +664,10 @@
     "ml_5": {
       "type": "image",
       "file": "ml_5.png"
+    },
+    "mnc": {
+      "type": "image",
+      "file": "mnc.png"
     },
     "nb1": {
       "type": "image",
@@ -884,6 +924,10 @@
     "vari": {
       "type": "image",
       "file": "vari.png"
+    },
+    "wood": {
+      "type": "text",
+      "text": "🪵"
     }
   }
 }

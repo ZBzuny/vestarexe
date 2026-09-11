@@ -6,10 +6,14 @@ import time
 import re
 from pathlib import Path
 from PIL import Image, ImageTk
-
+import os
 import sys
+import zipfile
+import io
 
 from pathlib import Path
+
+
 
 if getattr(sys, "frozen", False):
 
@@ -19,9 +23,24 @@ else:
 
     BASE_DIR = Path(__file__).resolve().parent
 
+EMJL = f'{BASE_DIR}/emojilist'
+
 url = "https://pillowmeow.tail6d1b7e.ts.net/pub/"
 
-with open(f'{BASE_DIR}/emojilist/data.json', "r") as f:
+
+
+
+if not os.path.exists(f'{BASE_DIR}/emojilist'):
+    os.makedirs(EMJL)
+    with open(f'{EMJL}/data.json', 'w') as f:
+        json.dump({"name":""},f)
+    r = requests.get(f'{url}emoji.zip')
+    r.raise_for_status()
+    with zipfile.ZipFile(io.BytesIO(r.content)) as z:
+        z.extractall(f'{EMJL}')
+
+
+with open(f'{EMJL}/data.json', "r") as f:
     data = json.load(f)
     name = data.get("name", "")
 gameurl = ""
